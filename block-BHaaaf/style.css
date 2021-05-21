@@ -1,0 +1,14 @@
+.heading{
+    font-size: 70px;
+    color: blue;
+}
+
+#description{
+    color: red;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+body{
+    background-color: skyblue;
+}
