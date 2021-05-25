@@ -1,0 +1,18 @@
+body{
+    background-color: #22396a;
+    color: #FFFFFF;
+}
+
+header{
+    text-align: center;
+}
+
+h2{
+    color: #2fab67;
+}
+
+footer{
+    background-color: #11141c;
+    text-align: center;
+    padding: 10px 10px;
+}
