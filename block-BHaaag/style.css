@@ -1,0 +1,17 @@
+body{
+    background-color: #22396a;
+    font-family: 'Roboto', sans-serif;
+    color: #FFFFFF
+}
+
+.heading{
+    color: #2fab67;
+}
+
+li{
+    list-style-type: none;
+}
+
+.contact-info{
+    display: inline-block;
+}
